@@ -1,0 +1,62 @@
+body {
+    background-color: #324376;
+}
+
+main {
+    margin: 1.5em;
+}
+
+#logo {
+    padding: 1em;
+    text-align: center;
+    color:  #324376;
+}
+
+.setup-box {
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    border-radius: 1em;
+    background-color: white;
+}
+
+
+a{
+    color:#23C297
+}
+a:hover{
+    color:black;
+}
+
+/*register*/
+.warning{
+    color: #F76C5E;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+#medium{
+    color: #F68E5F;
+}
+
+#strong{
+    color: #23C297;
+}
+
+/* Community-index */
+.form-unchecked{
+    margin: 1em;
+    border: solid;
+    border-radius:0.5em;
+    border-color: #324376;
+    border-width: 2px;
+    padding: 0.5em;
+}
+.form-checked{
+    margin: 1em;
+    border: solid;
+    border-radius:0.5em;
+    border-color: #F76C5E;
+    border-width: 2px;
+    padding: 0.5em;
+}

@@ -1,0 +1,48 @@
+#logo {
+    padding: 1em;
+    text-align: center;
+    color: white;
+}
+
+main{
+    background-color: #324376;
+    text-align: center;
+    color: white;
+    padding-bottom: 1em;
+}
+
+.badge-white{
+    background-color: white;
+    color:  #586BA4;
+    padding-bottom: 0em;
+}
+
+#purple-line{
+    background-color: #324376;
+}
+
+#yellow-line{
+    background-color: #586BA4;
+}
+
+#explanatory{
+    background-color: white;
+    text-align: center;
+}
+
+.section{
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+#landing-img{
+    padding: 0.5em 4em 2em 4em;
+}
+
+#explain1-img{
+    padding: 0em 3em 0.5em 3em;
+}
+
+#explain2-img{
+    padding: 0em 5em 0.5em 5em;
+}

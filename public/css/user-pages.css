@@ -1,0 +1,140 @@
+/* Overall */
+
+.navbar{
+    background-color: white;
+}
+
+.nav-text{
+    padding-top: 0.6em;
+}
+
+.avatar{
+    padding: 2em;
+}
+
+.page-title{
+    background-color: #F76C5E;
+    color: white;
+    text-align:center;
+    padding:1em;
+    margin-bottom: 1em;
+}
+
+.whitelink{
+    color: white;
+}
+
+.whitelink:hover{
+    color: white;
+}
+
+.blacklink{
+    color: black;
+    text-decoration: underline;
+}
+
+.blacklink:hover{
+    color: black;
+}
+
+.highlight{
+    border: solid;
+    border-radius: 0.5em;
+    border-color: #F76C5E;
+    padding: 0.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.pagination > li > a
+{
+    background-color: white;
+    color: #F76C5E;
+    border-color: #F76C5E;
+}
+.pagination > li > :hover
+{
+    color: #324376;
+    background-color: white;
+    border-color: #324376;
+}
+
+/* Homepage */
+
+.community-banners{
+    background-color: #F76C5E;
+    margin-bottom: 1em;
+}
+
+.community-titles{
+    color: white;
+    text-align: center;
+    padding: 1em 1.5em 1em 1.5em;
+}
+
+.community-images{
+    opacity: 0.9;
+    padding:0;
+}
+
+.home-options{
+    margin-bottom:1em;
+}
+
+.option-cards{
+    background-color: #324376;
+    color:white;
+    text-align: center;
+    margin:1em;
+    padding-top: 1em;
+    font-size: 15px;
+}
+
+/* Challenges */
+
+.challenge-cards{
+    background-color: #eaecef;
+    color:black;
+    text-align: center;
+    margin:1em;
+    font-size: 15px;
+    border: none;
+}
+
+/* Account */
+
+.account-info{
+    background-color: white;
+    color: black;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+#avatarUpload{
+    border: solid;
+    border-radius: 1em;
+    border-color: #F76C5E;
+}
+
+/* Postboard + Skillshare */
+
+.user-highlight{
+    background-color: #eaecef;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+    padding: 1em;
+}
+
+.post{
+    padding: 1em;
+}
+
+.post-details{
+    font-style: italic;
+    font-size: 10pt;
+}
+
+.profile-img{
+    padding-right: 0px;
+    padding-left: 0px;
+ }
